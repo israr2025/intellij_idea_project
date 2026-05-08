@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitExampleApplication {
     int a=10;
 	int b=100;
+    int c=1000;
 	public static void main(String[] args) {
 		SpringApplication.run(GitExampleApplication.class, args);
 	}
